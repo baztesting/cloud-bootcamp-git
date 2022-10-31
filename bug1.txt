@@ -1,1 +1,3 @@
 from bugfix branch
+adding from bugfix branch
+adding from master branch
