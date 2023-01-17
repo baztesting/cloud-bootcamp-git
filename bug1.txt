@@ -1,3 +1,6 @@
+New changes form Devops-baz
+
+
 from bugfix branch
 adding from bugfix branch 123455
 adding from master branch
